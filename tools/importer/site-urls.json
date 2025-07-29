@@ -9,12 +9,6 @@
       "id": "5e2ca8fb62a2aa91b497db341928ac3363070ebd"
     },
     {
-      "url": "https://www.inkandswitch.com/ambsheets/",
-      "source": "SITEMAPS",
-      "targetPath": "/ambsheets",
-      "id": "4ed28c769eb8369d7658fc7bb4482effa9553ad4"
-    },
-    {
       "url": "https://www.inkandswitch.com/ambsheets/notebook/",
       "source": "SITEMAPS",
       "targetPath": "/ambsheets/notebook",
@@ -109,18 +103,6 @@
       "source": "SITEMAPS",
       "targetPath": "/events/2022-unconf-berlin",
       "id": "8187b7590443560bb6dd3eea426375aa7d32b69b"
-    },
-    {
-      "url": "https://www.inkandswitch.com/events/2023-unconf-lisboa/",
-      "source": "SITEMAPS",
-      "targetPath": "/events/2023-unconf-lisboa",
-      "id": "4fab1366f2dbe35cf7219dfb22e1a3e7eb434f97"
-    },
-    {
-      "url": "https://www.inkandswitch.com/events/2023-unconf-stlouis/",
-      "source": "SITEMAPS",
-      "targetPath": "/events/2023-unconf-stlouis",
-      "id": "2e20cbe1cca4bdd6f232370aff618ed3d2460d8d"
     },
     {
       "url": "https://www.inkandswitch.com/events/2024-unconf-losangeles/",
@@ -297,12 +279,6 @@
       "id": "99f88ef7059cca2a5bd356c340798d97fd8b6a60"
     },
     {
-      "url": "https://www.inkandswitch.com/jacquard/",
-      "source": "SITEMAPS",
-      "targetPath": "/jacquard",
-      "id": "c55f9589a0791c7677c9f61f4f08190221803c08"
-    },
-    {
       "url": "https://www.inkandswitch.com/jacquard/notebook/",
       "source": "SITEMAPS",
       "targetPath": "/jacquard/notebook",
@@ -337,12 +313,6 @@
       "source": "SITEMAPS",
       "targetPath": "/jobs/automerge-typescript-maintainer",
       "id": "e5d15a0d3a712d6cb0611eccd9e2e5dc7bbb0b14"
-    },
-    {
-      "url": "https://www.inkandswitch.com/keyhive/",
-      "source": "SITEMAPS",
-      "targetPath": "/keyhive",
-      "id": "7338caf92672254921f39a84e0bcc30e009408cd"
     },
     {
       "url": "https://www.inkandswitch.com/keyhive/notebook/",
@@ -475,12 +445,6 @@
       "source": "SITEMAPS",
       "targetPath": "/newsletter/dispatch-011",
       "id": "63884ca24773ee8110e86d6539982c5da06d695b"
-    },
-    {
-      "url": "https://www.inkandswitch.com/patchwork/",
-      "source": "SITEMAPS",
-      "targetPath": "/patchwork",
-      "id": "b9847eb68b212a9a8ee7cb597342155f52ed4457"
     },
     {
       "url": "https://www.inkandswitch.com/patchwork/notebook/",
