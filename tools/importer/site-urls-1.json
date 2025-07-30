@@ -55,6 +55,36 @@
       "source": "SITEMAPS",
       "targetPath": "/connect",
       "id": "d43e7195fd8e784c68eb9c3a9d08cb9ab3e6b2e1"
+    },
+     {
+      "url": "https://www.inkandswitch.com/crosscut/",
+      "source": "SITEMAPS",
+      "targetPath": "/crosscut",
+      "id": "4482f084c2484ddaca8eb90a6c80b6d922382756"
+    },
+    {
+      "url": "https://www.inkandswitch.com/embark/",
+      "source": "SITEMAPS",
+      "targetPath": "/embark",
+      "id": "d8ab4cd199f184bb44965f8a905d783594870f5a"
+    },
+    {
+      "url": "https://www.inkandswitch.com/end-user-programming/",
+      "source": "SITEMAPS",
+      "targetPath": "/end-user-programming",
+      "id": "bf56814160cb4ffa9b65d322b2d3be058076da4e"
+    },
+    {
+      "url": "https://www.inkandswitch.com/essay/",
+      "source": "SITEMAPS",
+      "targetPath": "/essay",
+      "id": "807c49c109a7cf54fd7b8ce487d9bf0a712dbbba"
+    },
+    {
+      "url": "https://www.inkandswitch.com/essay/local-first/",
+      "source": "SITEMAPS",
+      "targetPath": "/essay/local-first",
+      "id": "02a0a884a77c32b46395b06e8500b6cc4c7c3ae4"
     }
   ],
   "crawlOptions": {
