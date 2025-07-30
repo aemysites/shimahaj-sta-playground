@@ -55,7 +55,7 @@
       "source": "SITEMAPS",
       "targetPath": "/connect",
       "id": "d43e7195fd8e784c68eb9c3a9d08cb9ab3e6b2e1"
-    },
+    }
   ],
   "crawlOptions": {
     "timeout": 64800000,
