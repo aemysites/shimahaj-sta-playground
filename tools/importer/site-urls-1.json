@@ -3,16 +3,16 @@
   "lastCrawled": "https://www.inkandswitch.com/",
   "urls": [
     {
-      "url": "https://www.inkandswitch.com/",
+      "url": "https://www.inkandswitch.com/cambria/",
       "source": "SITEMAPS",
-      "targetPath": "/",
-      "id": "5e2ca8fb62a2aa91b497db341928ac3363070ebd"
+      "targetPath": "/cambria",
+      "id": "6654280ac10c1f58fbebaa026c2cb220e82f1c43"
     },
     {
-      "url": "https://www.inkandswitch.com/ambsheets/notebook/",
+      "url": "https://www.inkandswitch.com/capstone/",
       "source": "SITEMAPS",
-      "targetPath": "/ambsheets/notebook",
-      "id": "0c2e7036531b47fd286d8a870a0aa926fb161a5a"
+      "targetPath": "/capstone",
+      "id": "f40c965dceb0decd9cb06f70e55370bea112a6e9"
     }
   ],
   "crawlOptions": {
