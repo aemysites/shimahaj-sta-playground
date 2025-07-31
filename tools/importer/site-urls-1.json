@@ -3,6 +3,42 @@
   "lastCrawled": "https://www.inkandswitch.com/",
   "urls": [
     {
+      "url": "https://www.inkandswitch.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "5e2ca8fb62a2aa91b497db341928ac3363070ebd"
+    },
+    {
+      "url": "https://www.inkandswitch.com/ambsheets/notebook/",
+      "source": "SITEMAPS",
+      "targetPath": "/ambsheets/notebook",
+      "id": "0c2e7036531b47fd286d8a870a0aa926fb161a5a"
+    },
+    {
+      "url": "https://www.inkandswitch.com/ambsheets/notebook/01/",
+      "source": "SITEMAPS",
+      "targetPath": "/ambsheets/notebook/01",
+      "id": "d365a132083374891448d0e0a63edb2169ae3184"
+    },
+    {
+      "url": "https://www.inkandswitch.com/ambsheets/notebook/02/",
+      "source": "SITEMAPS",
+      "targetPath": "/ambsheets/notebook/02",
+      "id": "6da565dc7c9879c12520eb1101efa8e0ff70ee5a"
+    },
+    {
+      "url": "https://www.inkandswitch.com/appearances/",
+      "source": "SITEMAPS",
+      "targetPath": "/appearances",
+      "id": "ee1688b6d6e46025d92a595ca1e4e41ce59574fa"
+    },
+    {
+      "url": "https://www.inkandswitch.com/backchannel/",
+      "source": "SITEMAPS",
+      "targetPath": "/backchannel",
+      "id": "b28caeedea0335b10222b0cebd0b246103af84ea"
+    },
+    {
       "url": "https://www.inkandswitch.com/cambria/",
       "source": "SITEMAPS",
       "targetPath": "/cambria",
@@ -13,6 +49,18 @@
       "source": "SITEMAPS",
       "targetPath": "/capstone",
       "id": "f40c965dceb0decd9cb06f70e55370bea112a6e9"
+    },
+    {
+      "url": "https://www.inkandswitch.com/connect/",
+      "source": "SITEMAPS",
+      "targetPath": "/connect",
+      "id": "d43e7195fd8e784c68eb9c3a9d08cb9ab3e6b2e1"
+    },
+    {
+      "url": "https://www.inkandswitch.com/crosscut/",
+      "source": "SITEMAPS",
+      "targetPath": "/crosscut",
+      "id": "4482f084c2484ddaca8eb90a6c80b6d922382756"
     }
   ],
   "crawlOptions": {
