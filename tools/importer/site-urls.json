@@ -1,0 +1,40 @@
+{
+  "originUrl": "https://main--wknd-trendsetters-demo--aemysites.aem.page",
+  "aborted": false,
+  "lastCrawled": "https://main--wknd-trendsetters-demo--aemysites.aem.page/",
+  "urls": [
+    {
+      "url": "https://main--wknd-trendsetters-demo--aemysites.aem.page/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "212fd06c59eeaa97104207dcdd0f4b3932cee9f3"
+    },
+    {
+      "url": "https://main--wknd-trendsetters-demo--aemysites.aem.page/fashion-insights",
+      "source": "CRAWL",
+      "targetPath": "/fashion-insights",
+      "id": "62a5a900b6b0b41d16337a3df897bb1455dc6145"
+    },
+    {
+      "url": "https://main--wknd-trendsetters-demo--aemysites.aem.page/fashion-trends-of-the-season",
+      "source": "CRAWL",
+      "targetPath": "/fashion-trends-of-the-season",
+      "id": "73d0387016a3f05a355e6282379a6cc4947be458"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": []
+}
