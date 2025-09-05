@@ -129,7 +129,7 @@
       "targetPath": "/ca/en/magazine",
       "id": "504dde310dbd2596d49210e05d4f05dbde994a81"
     },
-     {
+    {
       "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
       "source": "CRAWL",
       "targetPath": "/ca/en/magazine/arctic-surfing",
@@ -255,7 +255,7 @@
       "targetPath": "/us/en/adventures/beervana-portland",
       "id": "0539e503c41b9a4eab755d6f609be7909b90e80e"
     },
-     {
+    {
       "url": "https://wknd.site/us/en/adventures/climbing-new-zealand.html",
       "source": "CRAWL",
       "targetPath": "/us/en/adventures/climbing-new-zealand",
