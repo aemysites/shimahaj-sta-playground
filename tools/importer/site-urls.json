@@ -1,7 +1,7 @@
 {
   "originUrl": "https://wknd.site",
   "aborted": false,
-  "lastCrawled": "https://wknd.site/us/en.html",
+  "lastCrawled": "https://wknd.site/",
   "urls": [
     {
       "url": "https://wknd.site/ca/en.html",
@@ -363,7 +363,6 @@
       "targetPath": "/us/en/magazine/guide-la-skateparks",
       "id": "d457f5483d8efd291ce7ad4c6f3e0619611981a3"
     },
-
     {
       "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
       "source": "CRAWL",
@@ -403,7 +402,12 @@
       "CRAWL"
     ]
   },
-  "extractionErrors": [],
-  "errorCountMessage": "none",
+  "extractionErrors": [
+    {
+      "url": "https://wknd.site/",
+      "status": "301 Moved Permanently Redirect: https://wknd.site/us/en.html"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":1}",
   "error": null
 }
