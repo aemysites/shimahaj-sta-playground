@@ -129,7 +129,7 @@
       "targetPath": "/ca/en/magazine",
       "id": "504dde310dbd2596d49210e05d4f05dbde994a81"
     },
-     {
+    {
       "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
       "source": "CRAWL",
       "targetPath": "/ca/en/magazine/arctic-surfing",
@@ -255,7 +255,7 @@
       "targetPath": "/us/en/adventures/beervana-portland",
       "id": "0539e503c41b9a4eab755d6f609be7909b90e80e"
     },
-     {
+    {
       "url": "https://wknd.site/us/en/adventures/climbing-new-zealand.html",
       "source": "CRAWL",
       "targetPath": "/us/en/adventures/climbing-new-zealand",
@@ -362,6 +362,24 @@
       "source": "CRAWL",
       "targetPath": "/us/en/magazine/guide-la-skateparks",
       "id": "d457f5483d8efd291ce7ad4c6f3e0619611981a3"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/members-only.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/members-only",
+      "id": "c8e9e4dd0a8a167dfa7d05ff582d10c4ec5c9090"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/members-only/alaskan-adventure.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/members-only/alaskan-adventure",
+      "id": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/members-only/fly-fishing-the-amazon.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/members-only/fly-fishing-the-amazon",
+      "id": "617a93294ffba795b5aed1f5dba2238a9e38b186"
     },
     {
       "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
