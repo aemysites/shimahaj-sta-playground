@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "'Travel Blog Gallery'",
+      "name": "\"Travel Blog Template\"",
       "cluster": 1,
       "pages": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "\"Image-Centric Landing Page\"",
+      "name": "Photo Gallery",
       "cluster": 2,
       "pages": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Gallery Blog Template",
+      "name": "Surf Blog Template",
       "cluster": 3,
       "pages": [
         {
@@ -165,29 +165,29 @@
           "uuid": "13006f5defa79bcbe6557754cdac77a801b3a372"
         },
         {
-          "url": "https://wknd.site/ca/en/magazine/san-diego-surf.html",
-          "uuid": "3550c5e8aa07bdb3d76255bad2fdbec6ad340738"
-        },
-        {
           "url": "https://wknd.site/ca/en/magazine/members-only.html",
           "uuid": "c8e9e4dd0a8a167dfa7d05ff582d10c4ec5c9090"
         },
         {
-          "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
-          "uuid": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b"
+          "url": "https://wknd.site/ca/en/magazine/western-australia.html",
+          "uuid": "6ad76b5e471e4a84f7b48760fa56c717595e006c"
+        },
+        {
+          "url": "https://wknd.site/ca/en/magazine/san-diego-surf.html",
+          "uuid": "3550c5e8aa07bdb3d76255bad2fdbec6ad340738"
         },
         {
           "url": "https://wknd.site/ca/en/magazine/ski-touring.html",
           "uuid": "fbda622a9ea0af1b6c3c8f654f68ffb66ef84b33"
         },
         {
-          "url": "https://wknd.site/ca/en/magazine/western-australia.html",
-          "uuid": "6ad76b5e471e4a84f7b48760fa56c717595e006c"
+          "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
+          "uuid": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b"
         }
       ]
     },
     {
-      "name": "Photo Gallery Listing",
+      "name": "'Media Gallery Page'",
       "cluster": 4,
       "pages": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "'Travel Blog Template'",
+      "name": "'Portfolio Showcase'",
       "cluster": 6,
       "pages": [
         {
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "name": "'Contact Page'",
+      "name": "'Landing Page'",
       "cluster": 7,
       "pages": [
         {
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "name": "'Photo Gallery Page'",
+      "name": "'Gallery Listing'",
       "cluster": 8,
       "pages": [
         {
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "name": "'Landing Page'",
+      "name": "'Contact Page'",
       "cluster": 9,
       "pages": [
         {
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "name": "'Travel Blog Template'",
+      "name": "'Travel Blog/Portfolio'",
       "cluster": 10,
       "pages": [
         {
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "name": "'Travel Blog Template'",
+      "name": "'Portfolio Showcase'",
       "cluster": 11,
       "pages": [
         {
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "name": "'Hero Image Landing Page'",
+      "name": "'Lead Capture Page'",
       "cluster": 12,
       "pages": [
         {
