@@ -303,36 +303,6 @@
       "targetPath": "/us/en/adventures/riverside-camping-australia",
       "id": "68edd41a7b6178dc0b05c60f261a91471a52d04b"
     },
-    {
-      "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
-      "source": "CRAWL",
-      "targetPath": "/us/en/adventures/ski-touring-mont-blanc",
-      "id": "ef585c81b47d852aacd3000dcdc2b6b832f6e209"
-    },
-    {
-      "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
-      "source": "CRAWL",
-      "targetPath": "/us/en/adventures/surf-camp-costa-rica",
-      "id": "de076791cf53b48fe0a31faa4f325ff99b623a69"
-    },
-    {
-      "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
-      "source": "CRAWL",
-      "targetPath": "/us/en/adventures/tahoe-skiing",
-      "id": "6b8fe4b08c119a204173f9266930965ffbdbe8dd"
-    },
-    {
-      "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
-      "source": "CRAWL",
-      "targetPath": "/us/en/adventures/west-coast-cycling",
-      "id": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be"
-    },
-    {
-      "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
-      "source": "CRAWL",
-      "targetPath": "/us/en/adventures/whistler-mountain-biking",
-      "id": "4a38866b61f0a444ddb99157176cb95b0a0c06f4"
-    }
   ],
   "crawlOptions": {
     "timeout": 64800000,
