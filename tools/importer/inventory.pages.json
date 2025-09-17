@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "Gallery Page Template",
+      "name": "Gallery Page",
       "cluster": 1,
       "pages": [
         {
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "name": "'Travel Blog'",
+      "name": "'Travel Blog Template'",
       "cluster": 2,
       "pages": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "'Portfolio Gallery'",
+      "name": "'Portfolio Showcase'",
       "cluster": 3,
       "pages": [
         {
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "Content Showcase Template",
+      "name": "'Content Hub Template'",
       "cluster": 4,
       "pages": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "'Gallery Listing'",
+      "name": "'Photo Gallery Page'",
       "cluster": 5,
       "pages": [
         {
@@ -103,8 +103,108 @@
       ]
     },
     {
-      "name": "'Travel Blog Gallery'",
+      "name": "'Photo Gallery Blog'",
       "cluster": 6,
+      "pages": [
+        {
+          "url": "https://wknd.site/us/en/adventures/climbing-new-zealand.html",
+          "uuid": "9caa0a9221e4d34d7344a7ecdf77eb57899b4c96"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/downhill-skiing-wyoming.html",
+          "uuid": "2bfaf893c0b67bb83f3d4ba9f17fd1c774a93574"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/riverside-camping-australia.html",
+          "uuid": "68edd41a7b6178dc0b05c60f261a91471a52d04b"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/cycling-tuscany.html",
+          "uuid": "09782ca4afd30fe4c584ed5a6cf264df59e33583"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/beervana-portland.html",
+          "uuid": "0539e503c41b9a4eab755d6f609be7909b90e80e"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/gastronomic-marais-tour.html",
+          "uuid": "850c7841cbfd199e6b6fefb1cd1e34ca436b935d"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
+          "uuid": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/napa-wine-tasting.html",
+          "uuid": "a2e48fd5c920155e90fc83f45bd79d0aaa0d3cd8"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/colorado-rock-climbing.html",
+          "uuid": "f78265a466d69cff2f3605fd08e8403911e7b850"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/cycling-southern-utah.html",
+          "uuid": "8648ab5a4304678cffc1388d7be1e932bd506ef3"
+        }
+      ]
+    },
+    {
+      "name": "\"Hero Image Landing Page\"",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://wknd.site/es/es.html",
+          "uuid": "0f82d69eef44e82947ea64de137180348a4dc56e"
+        }
+      ]
+    },
+    {
+      "name": "'Landing Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://wknd.site/it/it.html",
+          "uuid": "d974d3943166f155fa5183d10116ca3c17a0ce20"
+        }
+      ]
+    },
+    {
+      "name": "'Content Hub'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://wknd.site/us/en/adventures.html",
+          "uuid": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519"
+        },
+        {
+          "url": "https://wknd.site/us/en/about-us.html",
+          "uuid": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24"
+        }
+      ]
+    },
+    {
+      "name": "'Contact Page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://wknd.site/de/de.html",
+          "uuid": "049288fd2b43f9f77fc2aaddc1d9978bbb9e848f"
+        }
+      ]
+    },
+    {
+      "name": "'Travel Blog Homepage'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://wknd.site/us/en.html",
+          "uuid": "c76865e01a59d1b318b0ceda7c573c315b7d1195"
+        }
+      ]
+    },
+    {
+      "name": "'Travel Blog Gallery'",
+      "cluster": 12,
       "pages": [
         {
           "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
@@ -147,12 +247,12 @@
           "uuid": "d22cea1fef7768f69fc901cc293c038fb398a64f"
         },
         {
-          "url": "https://wknd.site/ca/en/adventures/cycling-southern-utah.html",
-          "uuid": "a7eaa407cbe4db9485e9b531a0e30471a1735503"
-        },
-        {
           "url": "https://wknd.site/ca/en/adventures/colorado-rock-climbing.html",
           "uuid": "ba9a71ea97d8e522ed511640026c028cd6f3266e"
+        },
+        {
+          "url": "https://wknd.site/ca/en/adventures/cycling-southern-utah.html",
+          "uuid": "a7eaa407cbe4db9485e9b531a0e30471a1735503"
         },
         {
           "url": "https://wknd.site/ca/en/adventures/gastronomic-marais-tour.html",
@@ -169,74 +269,6 @@
         {
           "url": "https://wknd.site/ca/en/adventures/west-coast-cycling.html",
           "uuid": "c1cd098d191f254472307b4813db4897a8b86ef7"
-        }
-      ]
-    },
-    {
-      "name": "'Contact Page'",
-      "cluster": 7,
-      "pages": [
-        {
-          "url": "https://wknd.site/es/es.html",
-          "uuid": "0f82d69eef44e82947ea64de137180348a4dc56e"
-        }
-      ]
-    },
-    {
-      "name": "'Hero Image Landing Page'",
-      "cluster": 8,
-      "pages": [
-        {
-          "url": "https://wknd.site/it/it.html",
-          "uuid": "d974d3943166f155fa5183d10116ca3c17a0ce20"
-        }
-      ]
-    },
-    {
-      "name": "'Media Showcase'",
-      "cluster": 9,
-      "pages": [
-        {
-          "url": "https://wknd.site/us/en/adventures.html",
-          "uuid": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519"
-        },
-        {
-          "url": "https://wknd.site/us/en/about-us.html",
-          "uuid": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24"
-        }
-      ]
-    },
-    {
-      "name": "'Contact Page'",
-      "cluster": 10,
-      "pages": [
-        {
-          "url": "https://wknd.site/de/de.html",
-          "uuid": "049288fd2b43f9f77fc2aaddc1d9978bbb9e848f"
-        }
-      ]
-    },
-    {
-      "name": "\"Travel Blog Homepage\"",
-      "cluster": 11,
-      "pages": [
-        {
-          "url": "https://wknd.site/us/en.html",
-          "uuid": "c76865e01a59d1b318b0ceda7c573c315b7d1195"
-        }
-      ]
-    },
-    {
-      "name": "'Blog Listing'",
-      "cluster": 12,
-      "pages": [
-        {
-          "url": "https://wknd.site/us/en/adventures/beervana-portland.html",
-          "uuid": "0539e503c41b9a4eab755d6f609be7909b90e80e"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
-          "uuid": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e"
         }
       ]
     }
