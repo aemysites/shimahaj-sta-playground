@@ -302,7 +302,7 @@
       "source": "CRAWL",
       "targetPath": "/us/en/adventures/riverside-camping-australia",
       "id": "68edd41a7b6178dc0b05c60f261a91471a52d04b"
-    },
+    }
   ],
   "crawlOptions": {
     "timeout": 64800000,
