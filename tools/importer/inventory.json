@@ -42,6 +42,24 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine.html",
+          "urlHash": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190",
+          "uuid": "17b58a0b-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/faqs.html",
+          "urlHash": "1afb5043e0553960631f05181289952739221d14",
+          "uuid": "1afb5043-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+          "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+          "uuid": "1f18735b-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
           "urlHash": "23218dc0ea1fc6259e65fb5209e688a5a7e44ea2",
           "uuid": "23218dc0-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -66,6 +84,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/es.html",
+          "urlHash": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f",
+          "uuid": "2e12e1e5-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
           "urlHash": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e",
           "uuid": "2e38a9c1-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -87,6 +111,12 @@
           "url": "https://wknd.site/ca/en/adventures/whistler-mountain-biking.html",
           "urlHash": "457f1a7879077fb413f66cb72e37bb53651b1222",
           "uuid": "457f1a78-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+          "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+          "uuid": "4a38866b-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
@@ -120,6 +150,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+          "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+          "uuid": "6b8fe4b0-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
           "urlHash": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b",
           "uuid": "6cb56981-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -144,9 +180,21 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/western-australia.html",
+          "urlHash": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8",
+          "uuid": "77a25244-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures.html",
           "urlHash": "7a455a5e87b6e6374935a0feecfe65a676fb976d",
           "uuid": "7a455a5e-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+          "urlHash": "7ce7171961154d90172cf13c2a34900170b92d67",
+          "uuid": "7ce71719-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
@@ -210,6 +258,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+          "urlHash": "b1aaea2de2269c987d0d66e72be686f125e936f8",
+          "uuid": "b1aaea2d-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/riverside-camping-australia.html",
           "urlHash": "b621776a2186798d2c70ffefca929e47c2a97c1e",
           "uuid": "b621776a-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -270,6 +324,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+          "urlHash": "d457f5483d8efd291ce7ad4c6f3e0619611981a3",
+          "uuid": "d457f548-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/it/it.html",
           "urlHash": "d974d3943166f155fa5183d10116ca3c17a0ce20",
           "uuid": "d974d394-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -282,15 +342,39 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+          "uuid": "de076791-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
           "urlHash": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d",
           "uuid": "df129cf6-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+          "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+          "uuid": "ef585c81-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+          "urlHash": "efb2a09cb60df5a6dbb613cdad4568801be10182",
+          "uuid": "efb2a09c-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://wknd.site/ch/fr.html",
           "urlHash": "f1fccf96bf36224f10cb81b1d052e2a6c017949d",
           "uuid": "f1fccf96-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+          "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+          "uuid": "f4ac7a72-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
@@ -353,6 +437,24 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine.html",
+          "urlHash": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190",
+          "uuid": "17b58a0b-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/faqs.html",
+          "urlHash": "1afb5043e0553960631f05181289952739221d14",
+          "uuid": "1afb5043-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+          "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+          "uuid": "1f18735b-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
           "urlHash": "23218dc0ea1fc6259e65fb5209e688a5a7e44ea2",
           "uuid": "23218dc0-05-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -377,6 +479,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/es.html",
+          "urlHash": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f",
+          "uuid": "2e12e1e5-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
           "urlHash": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e",
           "uuid": "2e38a9c1-05-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -398,6 +506,12 @@
           "url": "https://wknd.site/ca/en/adventures/whistler-mountain-biking.html",
           "urlHash": "457f1a7879077fb413f66cb72e37bb53651b1222",
           "uuid": "457f1a78-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+          "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+          "uuid": "4a38866b-05-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
@@ -431,6 +545,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+          "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+          "uuid": "6b8fe4b0-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
           "urlHash": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b",
           "uuid": "6cb56981-03-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -455,9 +575,21 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/western-australia.html",
+          "urlHash": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8",
+          "uuid": "77a25244-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures.html",
           "urlHash": "7a455a5e87b6e6374935a0feecfe65a676fb976d",
           "uuid": "7a455a5e-08-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+          "urlHash": "7ce7171961154d90172cf13c2a34900170b92d67",
+          "uuid": "7ce71719-03-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
@@ -521,6 +653,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+          "urlHash": "b1aaea2de2269c987d0d66e72be686f125e936f8",
+          "uuid": "b1aaea2d-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/riverside-camping-australia.html",
           "urlHash": "b621776a2186798d2c70ffefca929e47c2a97c1e",
           "uuid": "b621776a-05-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -581,6 +719,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+          "urlHash": "d457f5483d8efd291ce7ad4c6f3e0619611981a3",
+          "uuid": "d457f548-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/it/it.html",
           "urlHash": "d974d3943166f155fa5183d10116ca3c17a0ce20",
           "uuid": "d974d394-03-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -593,15 +737,39 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+          "uuid": "de076791-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
           "urlHash": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d",
           "uuid": "df129cf6-03-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+          "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+          "uuid": "ef585c81-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+          "urlHash": "efb2a09cb60df5a6dbb613cdad4568801be10182",
+          "uuid": "efb2a09c-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
           "url": "https://wknd.site/ch/fr.html",
           "urlHash": "f1fccf96bf36224f10cb81b1d052e2a6c017949d",
           "uuid": "f1fccf96-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+          "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+          "uuid": "f4ac7a72-05-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
         },
         {
@@ -655,16 +823,16 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
         },
         {
-          "url": "https://wknd.site/us/en/adventures/downhill-skiing-wyoming.html",
-          "urlHash": "2bfaf893c0b67bb83f3d4ba9f17fd1c774a93574",
-          "uuid": "2bfaf893-04-ec353702b9b681b52bcf0d477eb16e643572396a",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
+          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+          "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+          "uuid": "1f18735b-04-9ec213d26ff1b13c9a420c5da3c01c4eaf313d61",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
         },
         {
-          "url": "https://wknd.site/ca/en/adventures/downhill-skiing-wyoming.html",
-          "urlHash": "8e7a04bd7469818450ab9b0302c70282cc5d4649",
-          "uuid": "8e7a04bd-04-ec353702b9b681b52bcf0d477eb16e643572396a",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
+          "url": "https://wknd.site/ca/en/adventures/yosemite-backpacking.html",
+          "urlHash": "2ca1ab0fd46f0e5e5d0cba1b167bade26a2194ff",
+          "uuid": "2ca1ab0f-04-9ec213d26ff1b13c9a420c5da3c01c4eaf313d61",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
         },
         {
           "url": "https://wknd.site/ca/en/adventures/west-coast-cycling.html",
@@ -673,9 +841,9 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
         },
         {
-          "url": "https://wknd.site/ca/en/adventures/yosemite-backpacking.html",
-          "urlHash": "2ca1ab0fd46f0e5e5d0cba1b167bade26a2194ff",
-          "uuid": "2ca1ab0f-04-9ec213d26ff1b13c9a420c5da3c01c4eaf313d61",
+          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+          "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+          "uuid": "f4ac7a72-04-9ec213d26ff1b13c9a420c5da3c01c4eaf313d61",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
         },
         {
@@ -691,6 +859,18 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/downhill-skiing-wyoming.html",
+          "urlHash": "2bfaf893c0b67bb83f3d4ba9f17fd1c774a93574",
+          "uuid": "2bfaf893-04-ec353702b9b681b52bcf0d477eb16e643572396a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/ca/en/adventures/downhill-skiing-wyoming.html",
+          "urlHash": "8e7a04bd7469818450ab9b0302c70282cc5d4649",
+          "uuid": "8e7a04bd-04-ec353702b9b681b52bcf0d477eb16e643572396a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/colorado-rock-climbing.html",
           "urlHash": "ba9a71ea97d8e522ed511640026c028cd6f3266e",
           "uuid": "ba9a71ea-04-9ec213d26ff1b13c9a420c5da3c01c4eaf313d61",
@@ -700,6 +880,12 @@
           "url": "https://wknd.site/us/en/adventures/colorado-rock-climbing.html",
           "urlHash": "f78265a466d69cff2f3605fd08e8403911e7b850",
           "uuid": "f78265a4-04-9ec213d26ff1b13c9a420c5da3c01c4eaf313d61",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+          "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+          "uuid": "6b8fe4b0-04-9ec213d26ff1b13c9a420c5da3c01c4eaf313d61",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/main[1]"
         },
         {
@@ -724,6 +910,24 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/western-australia.html",
+          "urlHash": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8",
+          "uuid": "77a25244-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+          "urlHash": "b1aaea2de2269c987d0d66e72be686f125e936f8",
+          "uuid": "b1aaea2d-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/ca/en/magazine/ski-touring.html",
+          "urlHash": "fbda622a9ea0af1b6c3c8f654f68ffb66ef84b33",
+          "uuid": "fbda622a-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
           "urlHash": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d",
           "uuid": "df129cf6-02-8508d37050d6ad651700fd3359628a43350d9ce0",
@@ -736,9 +940,9 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
         },
         {
-          "url": "https://wknd.site/ca/en/magazine/ski-touring.html",
-          "urlHash": "fbda622a9ea0af1b6c3c8f654f68ffb66ef84b33",
-          "uuid": "fbda622a-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+          "urlHash": "7ce7171961154d90172cf13c2a34900170b92d67",
+          "uuid": "7ce71719-02-8508d37050d6ad651700fd3359628a43350d9ce0",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
         }
       ]
@@ -772,15 +976,21 @@
       "key": "columns4",
       "instances": [
         {
-          "url": "https://wknd.site/ca/en/magazine/members-only/fly-fishing-the-amazon.html",
-          "urlHash": "617a93294ffba795b5aed1f5dba2238a9e38b186",
-          "uuid": "617a9329-02-8508d37050d6ad651700fd3359628a43350d9ce0",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
-        },
-        {
           "url": "https://wknd.site/ca/en/magazine/san-diego-surf.html",
           "urlHash": "3550c5e8aa07bdb3d76255bad2fdbec6ad340738",
           "uuid": "3550c5e8-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+          "urlHash": "efb2a09cb60df5a6dbb613cdad4568801be10182",
+          "uuid": "efb2a09c-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/ca/en/magazine/members-only/fly-fishing-the-amazon.html",
+          "urlHash": "617a93294ffba795b5aed1f5dba2238a9e38b186",
+          "uuid": "617a9329-02-8508d37050d6ad651700fd3359628a43350d9ce0",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
         }
       ]
@@ -792,6 +1002,12 @@
       "target": "Carousel (carousel5)",
       "key": "carousel5",
       "instances": [
+        {
+          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+          "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+          "uuid": "1f18735b-03-9ebcaeba0ee8aa4b11cc9828f012f6f7db8ee78e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        },
         {
           "url": "https://wknd.site/ca/en/adventures/yosemite-backpacking.html",
           "urlHash": "2ca1ab0fd46f0e5e5d0cba1b167bade26a2194ff",
@@ -814,6 +1030,12 @@
           "url": "https://wknd.site/ca/en/adventures/bali-surf-camp.html",
           "urlHash": "678b1dddda4aa30d25e5f45b32551ccdbc0e40a6",
           "uuid": "678b1ddd-03-9ebcaeba0ee8aa4b11cc9828f012f6f7db8ee78e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+          "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+          "uuid": "6b8fe4b0-03-9ebcaeba0ee8aa4b11cc9828f012f6f7db8ee78e",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
         },
         {
@@ -862,6 +1084,12 @@
           "url": "https://wknd.site/ca/en/adventures/napa-wine-tasting.html",
           "urlHash": "d22cea1fef7768f69fc901cc293c038fb398a64f",
           "uuid": "d22cea1f-03-9ebcaeba0ee8aa4b11cc9828f012f6f7db8ee78e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+          "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+          "uuid": "f4ac7a72-03-9ebcaeba0ee8aa4b11cc9828f012f6f7db8ee78e",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
         },
         {
@@ -937,6 +1165,24 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine.html",
+          "urlHash": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190",
+          "uuid": "17b58a0b-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/faqs.html",
+          "urlHash": "1afb5043e0553960631f05181289952739221d14",
+          "uuid": "1afb5043-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+          "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+          "uuid": "1f18735b-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
           "urlHash": "23218dc0ea1fc6259e65fb5209e688a5a7e44ea2",
           "uuid": "23218dc0-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
@@ -961,6 +1207,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/es.html",
+          "urlHash": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f",
+          "uuid": "2e12e1e5-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
           "urlHash": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e",
           "uuid": "2e38a9c1-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
@@ -982,6 +1234,12 @@
           "url": "https://wknd.site/ca/en/adventures/whistler-mountain-biking.html",
           "urlHash": "457f1a7879077fb413f66cb72e37bb53651b1222",
           "uuid": "457f1a78-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+          "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+          "uuid": "4a38866b-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
@@ -1015,6 +1273,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+          "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+          "uuid": "6b8fe4b0-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
           "urlHash": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b",
           "uuid": "6cb56981-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
@@ -1039,9 +1303,21 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/western-australia.html",
+          "urlHash": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8",
+          "uuid": "77a25244-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures.html",
           "urlHash": "7a455a5e87b6e6374935a0feecfe65a676fb976d",
           "uuid": "7a455a5e-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+          "urlHash": "7ce7171961154d90172cf13c2a34900170b92d67",
+          "uuid": "7ce71719-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
@@ -1105,6 +1381,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+          "urlHash": "b1aaea2de2269c987d0d66e72be686f125e936f8",
+          "uuid": "b1aaea2d-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/riverside-camping-australia.html",
           "urlHash": "b621776a2186798d2c70ffefca929e47c2a97c1e",
           "uuid": "b621776a-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
@@ -1165,6 +1447,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+          "urlHash": "d457f5483d8efd291ce7ad4c6f3e0619611981a3",
+          "uuid": "d457f548-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/it/it.html",
           "urlHash": "d974d3943166f155fa5183d10116ca3c17a0ce20",
           "uuid": "d974d394-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
@@ -1177,15 +1465,39 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+          "uuid": "de076791-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
           "urlHash": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d",
           "uuid": "df129cf6-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+          "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+          "uuid": "ef585c81-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+          "urlHash": "efb2a09cb60df5a6dbb613cdad4568801be10182",
+          "uuid": "efb2a09c-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/ch/fr.html",
           "urlHash": "f1fccf96bf36224f10cb81b1d052e2a6c017949d",
           "uuid": "f1fccf96-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+          "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+          "uuid": "f4ac7a72-01-7c33728a2204b95b0c204c62c3b77e6128cb8e79",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
@@ -1252,6 +1564,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+          "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+          "uuid": "4a38866b-03-f340e94141f85f26fc370a5c2454e55480bd1776",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
           "url": "https://wknd.site/us/en/adventures/riverside-camping-australia.html",
           "urlHash": "68edd41a7b6178dc0b05c60f261a91471a52d04b",
           "uuid": "68edd41a-03-f340e94141f85f26fc370a5c2454e55480bd1776",
@@ -1286,6 +1604,18 @@
           "urlHash": "ddf822e6567d87299a90d0657670602df46b83a7",
           "uuid": "ddf822e6-03-f340e94141f85f26fc370a5c2454e55480bd1776",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+          "uuid": "de076791-03-f340e94141f85f26fc370a5c2454e55480bd1776",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+          "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+          "uuid": "ef585c81-03-f340e94141f85f26fc370a5c2454e55480bd1776",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]"
         }
       ]
     },
@@ -1296,6 +1626,12 @@
       "target": "Cards (cards9)",
       "key": "cards9",
       "instances": [
+        {
+          "url": "https://wknd.site/us/en/magazine.html",
+          "urlHash": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190",
+          "uuid": "17b58a0b-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
         {
           "url": "https://wknd.site/ca/en/magazine.html",
           "urlHash": "504dde310dbd2596d49210e05d4f05dbde994a81",
@@ -1333,16 +1669,233 @@
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/ca/en/adventures/surf-camp-costa-rica.html",
-          "urlHash": "0f15714d3e665b90954574983f483778ba7b1a43",
-          "uuid": "0f15714d-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "url": "https://wknd.site/es/es.html",
+          "urlHash": "0f82d69eef44e82947ea64de137180348a4dc56e",
+          "uuid": "0f82d69e-03-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/es/es.html",
-          "urlHash": "0f82d69eef44e82947ea64de137180348a4dc56e",
-          "uuid": "0f82d69e-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "url": "https://wknd.site/us/en/magazine.html",
+          "urlHash": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190",
+          "uuid": "17b58a0b-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/faqs.html",
+          "urlHash": "1afb5043e0553960631f05181289952739221d14",
+          "uuid": "1afb5043-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+          "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+          "uuid": "1f18735b-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/downhill-skiing-wyoming.html",
+          "urlHash": "2bfaf893c0b67bb83f3d4ba9f17fd1c774a93574",
+          "uuid": "2bfaf893-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/es.html",
+          "urlHash": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f",
+          "uuid": "2e12e1e5-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
+          "urlHash": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e",
+          "uuid": "2e38a9c1-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+          "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+          "uuid": "4a38866b-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/riverside-camping-australia.html",
+          "urlHash": "68edd41a7b6178dc0b05c60f261a91471a52d04b",
+          "uuid": "68edd41a-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+          "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+          "uuid": "6b8fe4b0-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/ch/it.html",
+          "urlHash": "6d0297e1c2eca3f0df9077a9bae5f15bdc036fae",
+          "uuid": "6d0297e1-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures.html",
+          "urlHash": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519",
+          "uuid": "6fbce216-08-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/western-australia.html",
+          "urlHash": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8",
+          "uuid": "77a25244-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+          "urlHash": "7ce7171961154d90172cf13c2a34900170b92d67",
+          "uuid": "7ce71719-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/gastronomic-marais-tour.html",
+          "urlHash": "850c7841cbfd199e6b6fefb1cd1e34ca436b935d",
+          "uuid": "850c7841-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/cycling-southern-utah.html",
+          "urlHash": "8648ab5a4304678cffc1388d7be1e932bd506ef3",
+          "uuid": "8648ab5a-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/climbing-new-zealand.html",
+          "urlHash": "9caa0a9221e4d34d7344a7ecdf77eb57899b4c96",
+          "uuid": "9caa0a92-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/napa-wine-tasting.html",
+          "urlHash": "a2e48fd5c920155e90fc83f45bd79d0aaa0d3cd8",
+          "uuid": "a2e48fd5-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/fr/fr.html",
+          "urlHash": "a5c37db08b35b6e1cd8db378f0c1624eeb4ae2f9",
+          "uuid": "a5c37db0-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/ch/de.html",
+          "urlHash": "a9abbc3f15fbdfd7f9fde888217fce699b407a75",
+          "uuid": "a9abbc3f-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+          "urlHash": "b1aaea2de2269c987d0d66e72be686f125e936f8",
+          "uuid": "b1aaea2d-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/about-us.html",
+          "urlHash": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24",
+          "uuid": "c258e453-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/ca/fr.html",
+          "urlHash": "c54edba16b6f5b2fc520f684768f025e2da10763",
+          "uuid": "c54edba1-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en.html",
+          "urlHash": "c76865e01a59d1b318b0ceda7c573c315b7d1195",
+          "uuid": "c76865e0-14-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+          "urlHash": "d457f5483d8efd291ce7ad4c6f3e0619611981a3",
+          "uuid": "d457f548-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/it/it.html",
+          "urlHash": "d974d3943166f155fa5183d10116ca3c17a0ce20",
+          "uuid": "d974d394-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+          "uuid": "de076791-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+          "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+          "uuid": "ef585c81-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+          "urlHash": "efb2a09cb60df5a6dbb613cdad4568801be10182",
+          "uuid": "efb2a09c-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/ch/fr.html",
+          "urlHash": "f1fccf96bf36224f10cb81b1d052e2a6c017949d",
+          "uuid": "f1fccf96-03-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+          "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+          "uuid": "f4ac7a72-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/colorado-rock-climbing.html",
+          "urlHash": "f78265a466d69cff2f3605fd08e8403911e7b850",
+          "uuid": "f78265a4-05-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/ca/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "0f15714d3e665b90954574983f483778ba7b1a43",
+          "uuid": "0f15714d-05-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
           "section": "section-1"
         },
@@ -1361,13 +1914,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/us/en/adventures/downhill-skiing-wyoming.html",
-          "urlHash": "2bfaf893c0b67bb83f3d4ba9f17fd1c774a93574",
-          "uuid": "2bfaf893-05-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
           "url": "https://wknd.site/ca/en/adventures/yosemite-backpacking.html",
           "urlHash": "2ca1ab0fd46f0e5e5d0cba1b167bade26a2194ff",
           "uuid": "2ca1ab0f-05-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -1378,13 +1924,6 @@
           "url": "https://wknd.site/ca/en/adventures/gastronomic-marais-tour.html",
           "urlHash": "2d3bec3d0bdbfeb5d4474abbad80275ba0521f1f",
           "uuid": "2d3bec3d-05-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
-          "urlHash": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e",
-          "uuid": "2e38a9c1-05-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
           "section": "section-1"
         },
@@ -1431,13 +1970,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/us/en/adventures/riverside-camping-australia.html",
-          "urlHash": "68edd41a7b6178dc0b05c60f261a91471a52d04b",
-          "uuid": "68edd41a-05-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
           "url": "https://wknd.site/ca/en/magazine/western-australia.html",
           "urlHash": "6ad76b5e471e4a84f7b48760fa56c717595e006c",
           "uuid": "6ad76b5e-03-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -1448,20 +1980,6 @@
           "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
           "urlHash": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b",
           "uuid": "6cb56981-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/ch/it.html",
-          "urlHash": "6d0297e1c2eca3f0df9077a9bae5f15bdc036fae",
-          "uuid": "6d0297e1-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures.html",
-          "urlHash": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519",
-          "uuid": "6fbce216-08-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
           "section": "section-1"
         },
@@ -1487,23 +2005,9 @@
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/us/en/adventures/gastronomic-marais-tour.html",
-          "urlHash": "850c7841cbfd199e6b6fefb1cd1e34ca436b935d",
-          "uuid": "850c7841-05-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
           "url": "https://wknd.site/ca/en/faqs.html",
           "urlHash": "863a2b0c0d71265cedb98984d781ed817028e1ef",
           "uuid": "863a2b0c-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/cycling-southern-utah.html",
-          "urlHash": "8648ab5a4304678cffc1388d7be1e932bd506ef3",
-          "uuid": "8648ab5a-05-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
           "section": "section-1"
         },
@@ -1515,37 +2019,9 @@
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/us/en/adventures/climbing-new-zealand.html",
-          "urlHash": "9caa0a9221e4d34d7344a7ecdf77eb57899b4c96",
-          "uuid": "9caa0a92-05-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/napa-wine-tasting.html",
-          "urlHash": "a2e48fd5c920155e90fc83f45bd79d0aaa0d3cd8",
-          "uuid": "a2e48fd5-05-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/fr/fr.html",
-          "urlHash": "a5c37db08b35b6e1cd8db378f0c1624eeb4ae2f9",
-          "uuid": "a5c37db0-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
           "url": "https://wknd.site/ca/en/adventures/cycling-southern-utah.html",
           "urlHash": "a7eaa407cbe4db9485e9b531a0e30471a1735503",
           "uuid": "a7eaa407-05-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/ch/de.html",
-          "urlHash": "a9abbc3f15fbdfd7f9fde888217fce699b407a75",
-          "uuid": "a9abbc3f-03-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
           "section": "section-1"
         },
@@ -1585,27 +2061,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/us/en/about-us.html",
-          "urlHash": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24",
-          "uuid": "c258e453-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/ca/fr.html",
-          "urlHash": "c54edba16b6f5b2fc520f684768f025e2da10763",
-          "uuid": "c54edba1-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/us/en.html",
-          "urlHash": "c76865e01a59d1b318b0ceda7c573c315b7d1195",
-          "uuid": "c76865e0-14-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
           "url": "https://wknd.site/ca/en/magazine/members-only.html",
           "urlHash": "c8e9e4dd0a8a167dfa7d05ff582d10c4ec5c9090",
           "uuid": "c8e9e4dd-04-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -1620,13 +2075,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://wknd.site/it/it.html",
-          "urlHash": "d974d3943166f155fa5183d10116ca3c17a0ce20",
-          "uuid": "d974d394-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
           "url": "https://wknd.site/ca/en/adventures/beervana-portland.html",
           "urlHash": "ddf822e6567d87299a90d0657670602df46b83a7",
           "uuid": "ddf822e6-05-43d6b197520051945d433b3004e909ea4e3accb3",
@@ -1637,20 +2085,6 @@
           "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
           "urlHash": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d",
           "uuid": "df129cf6-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/ch/fr.html",
-          "urlHash": "f1fccf96bf36224f10cb81b1d052e2a6c017949d",
-          "uuid": "f1fccf96-03-43d6b197520051945d433b3004e909ea4e3accb3",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/colorado-rock-climbing.html",
-          "urlHash": "f78265a466d69cff2f3605fd08e8403911e7b850",
-          "uuid": "f78265a4-05-43d6b197520051945d433b3004e909ea4e3accb3",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
           "section": "section-1"
         },
@@ -1725,6 +2159,12 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
         },
         {
+          "url": "https://wknd.site/us/es.html",
+          "urlHash": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f",
+          "uuid": "2e12e1e5-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
+        {
           "url": "https://wknd.site/ch/it.html",
           "urlHash": "6d0297e1c2eca3f0df9077a9bae5f15bdc036fae",
           "uuid": "6d0297e1-02-8508d37050d6ad651700fd3359628a43350d9ce0",
@@ -1784,6 +2224,12 @@
       "target": "Accordion (accordion15)",
       "key": "accordion15",
       "instances": [
+        {
+          "url": "https://wknd.site/us/en/faqs.html",
+          "urlHash": "1afb5043e0553960631f05181289952739221d14",
+          "uuid": "1afb5043-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
         {
           "url": "https://wknd.site/ca/en/faqs.html",
           "urlHash": "863a2b0c0d71265cedb98984d781ed817028e1ef",
@@ -1875,6 +2321,27 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/en/magazine.html",
+          "urlHash": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190",
+          "uuid": "17b58a0b-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/faqs.html",
+          "urlHash": "1afb5043e0553960631f05181289952739221d14",
+          "uuid": "1afb5043-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+          "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+          "uuid": "1f18735b-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
           "urlHash": "23218dc0ea1fc6259e65fb5209e688a5a7e44ea2",
           "uuid": "23218dc0-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -1903,6 +2370,13 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/es.html",
+          "urlHash": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f",
+          "uuid": "2e12e1e5-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
           "urlHash": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e",
           "uuid": "2e38a9c1-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -1927,6 +2401,13 @@
           "url": "https://wknd.site/ca/en/adventures/whistler-mountain-biking.html",
           "urlHash": "457f1a7879077fb413f66cb72e37bb53651b1222",
           "uuid": "457f1a78-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+          "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+          "uuid": "4a38866b-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
         },
@@ -1966,6 +2447,13 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+          "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+          "uuid": "6b8fe4b0-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
           "urlHash": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b",
           "uuid": "6cb56981-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -1994,9 +2482,23 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/western-australia.html",
+          "urlHash": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8",
+          "uuid": "77a25244-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures.html",
           "urlHash": "7a455a5e87b6e6374935a0feecfe65a676fb976d",
           "uuid": "7a455a5e-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+          "urlHash": "7ce7171961154d90172cf13c2a34900170b92d67",
+          "uuid": "7ce71719-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
         },
@@ -2071,6 +2573,13 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+          "urlHash": "b1aaea2de2269c987d0d66e72be686f125e936f8",
+          "uuid": "b1aaea2d-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/riverside-camping-australia.html",
           "urlHash": "b621776a2186798d2c70ffefca929e47c2a97c1e",
           "uuid": "b621776a-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -2141,6 +2650,13 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+          "urlHash": "d457f5483d8efd291ce7ad4c6f3e0619611981a3",
+          "uuid": "d457f548-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/it/it.html",
           "urlHash": "d974d3943166f155fa5183d10116ca3c17a0ce20",
           "uuid": "d974d394-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -2155,6 +2671,13 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+          "uuid": "de076791-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
           "urlHash": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d",
           "uuid": "df129cf6-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
@@ -2162,9 +2685,30 @@
           "section": "section-1"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+          "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+          "uuid": "ef585c81-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+          "urlHash": "efb2a09cb60df5a6dbb613cdad4568801be10182",
+          "uuid": "efb2a09c-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://wknd.site/ch/fr.html",
           "urlHash": "f1fccf96bf36224f10cb81b1d052e2a6c017949d",
           "uuid": "f1fccf96-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+          "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+          "uuid": "f4ac7a72-00-97062599c1673bc37fcb3d7fc75a5acab9691050",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
         },
@@ -2252,9 +2796,21 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
         },
         {
+          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+          "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+          "uuid": "ef585c81-04-ec353702b9b681b52bcf0d477eb16e643572396a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
+        },
+        {
           "url": "https://wknd.site/ca/en/adventures/whistler-mountain-biking.html",
           "urlHash": "457f1a7879077fb413f66cb72e37bb53651b1222",
           "uuid": "457f1a78-04-ec353702b9b681b52bcf0d477eb16e643572396a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+          "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+          "uuid": "4a38866b-04-ec353702b9b681b52bcf0d477eb16e643572396a",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
         }
       ]
@@ -2355,6 +2911,12 @@
           "urlHash": "0f15714d3e665b90954574983f483778ba7b1a43",
           "uuid": "0f15714d-04-ec353702b9b681b52bcf0d477eb16e643572396a",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+          "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+          "uuid": "de076791-04-ec353702b9b681b52bcf0d477eb16e643572396a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/main[1]"
         }
       ]
     },
@@ -2369,6 +2931,12 @@
           "url": "https://wknd.site/ca/en/magazine/guide-la-skateparks.html",
           "urlHash": "13006f5defa79bcbe6557754cdac77a801b3a372",
           "uuid": "13006f5d-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+          "urlHash": "d457f5483d8efd291ce7ad4c6f3e0619611981a3",
+          "uuid": "d457f548-02-8508d37050d6ad651700fd3359628a43350d9ce0",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
         }
       ]
@@ -2392,6 +2960,12 @@
       "urlHash": "0f15714d3e665b90954574983f483778ba7b1a43",
       "uuid": "0f15714d-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
       "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+      "urlHash": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3",
+      "uuid": "1f18735b-02-68c0a081f09f70a94de639d3f533d4b557f3befe",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
@@ -2436,6 +3010,12 @@
       "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
     },
     {
+      "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+      "urlHash": "4a38866b61f0a444ddb99157176cb95b0a0c06f4",
+      "uuid": "4a38866b-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+    },
+    {
       "url": "https://wknd.site/ca/en/adventures/bali-surf-camp.html",
       "urlHash": "678b1dddda4aa30d25e5f45b32551ccdbc0e40a6",
       "uuid": "678b1ddd-02-68c0a081f09f70a94de639d3f533d4b557f3befe",
@@ -2446,6 +3026,12 @@
       "urlHash": "68edd41a7b6178dc0b05c60f261a91471a52d04b",
       "uuid": "68edd41a-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
       "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+      "urlHash": "6b8fe4b08c119a204173f9266930965ffbdbe8dd",
+      "uuid": "6b8fe4b0-02-68c0a081f09f70a94de639d3f533d4b557f3befe",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://wknd.site/us/en/adventures.html",
@@ -2664,6 +3250,24 @@
       "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
     },
     {
+      "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+      "urlHash": "de076791cf53b48fe0a31faa4f325ff99b623a69",
+      "uuid": "de076791-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+      "urlHash": "ef585c81b47d852aacd3000dcdc2b6b832f6e209",
+      "uuid": "ef585c81-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+      "urlHash": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be",
+      "uuid": "f4ac7a72-02-68c0a081f09f70a94de639d3f533d4b557f3befe",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
       "url": "https://wknd.site/us/en/adventures/colorado-rock-climbing.html",
       "urlHash": "f78265a466d69cff2f3605fd08e8403911e7b850",
       "uuid": "f78265a4-02-68c0a081f09f70a94de639d3f533d4b557f3befe",
@@ -2674,7 +3278,7 @@
     {
       "name": "section-1",
       "background": "rgb(32, 32, 32) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 100
+      "count": 128
     }
   ]
 }
