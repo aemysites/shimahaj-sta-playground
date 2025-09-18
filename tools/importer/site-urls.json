@@ -332,6 +332,60 @@
       "source": "CRAWL",
       "targetPath": "/us/en/adventures/whistler-mountain-biking",
       "id": "4a38866b61f0a444ddb99157176cb95b0a0c06f4"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/yosemite-backpacking",
+      "id": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3"
+    },
+    {
+      "url": "https://wknd.site/us/en/faqs.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/faqs",
+      "id": "1afb5043e0553960631f05181289952739221d14"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine",
+      "id": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/arctic-surfing",
+      "id": "7ce7171961154d90172cf13c2a34900170b92d67"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/guide-la-skateparks",
+      "id": "d457f5483d8efd291ce7ad4c6f3e0619611981a3"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/san-diego-surf",
+      "id": "efb2a09cb60df5a6dbb613cdad4568801be10182"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/ski-touring",
+      "id": "b1aaea2de2269c987d0d66e72be686f125e936f8"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/western-australia.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/western-australia",
+      "id": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8"
+    },
+    {
+      "url": "https://wknd.site/us/es.html",
+      "source": "CRAWL",
+      "targetPath": "/us/es",
+      "id": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f"
     }
   ],
   "crawlOptions": {
